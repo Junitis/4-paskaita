@@ -1,0 +1,43 @@
+html {
+    font-size: 10px;
+    margin: 5%;
+}
+body {
+    background: rgb(76, 134, 211);
+    color: rgb(196, 230, 48);
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    
+   
+
+}
+#Antraste {
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+    font-size: 5em;
+    font-weight: bold;    
+    width: 50%;
+    margin: 30px auto;
+    padding: 10px;
+}
+.Tekstas { 
+    padding: 5%;
+    border: solid;
+    border-width: 10px;
+    border-color: rgb(241, 180, 13);
+    border-radius: 20px;
+    font-size: 18px;
+
+}
+
+.Maiso {
+    display:block;
+    width: 98%;
+    margin : auto;
+    border: solid;
+    border-width: 10px;
+    border-color: rgb(241, 180, 13);
+    border-radius: 20px;
+    margin: 30px auto;
+
+}
